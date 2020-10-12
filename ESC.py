@@ -168,5 +168,6 @@ while True:
 	exit(0)
     elif inp == "stop":
         stop()
+	exit(0)
     else:
         print( "Command not recognized, please type command again")
